@@ -9,8 +9,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDevs05&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDevs05&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </div>
 
 ---
