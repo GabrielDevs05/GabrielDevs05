@@ -6,12 +6,18 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDevs05&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDevs05&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</div>
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielDevs05&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Estatísticas de Gabriel" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDevs05&layout=donut&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielDevs05&theme=tokyonight&hide_border=false" alt="Contribuições contínuas" />
+</p>
+
 
 ---
 
