@@ -30,8 +30,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Ribeiro-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-882ba8277)
-[![Instagram](https://img.shields.io/badge/-@gabriel_o_ribeiro-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel_o_ribeiro)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-882ba8277)
+[![Instagram](https://img.shields.io/badge/-@INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel_o_ribeiro)
 
 </div>
 
