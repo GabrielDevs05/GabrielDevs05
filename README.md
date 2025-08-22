@@ -2,7 +2,8 @@
 
 - 🔧 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💼 Atualmente aprendendo: **Java, JavaScript, HTML e CSS**  
-- 🏢 Atualmente atuando: **Portobelo S/A**
+- 🏢 Atualmente atuando: **Buscando Oportunidade**
+- 👨‍💼 Empresas Trabalhadas: **Portobello S.A**
 
 ---
 
