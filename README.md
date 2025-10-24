@@ -2,7 +2,7 @@
 
 - 🔧 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💼 Atualmente aprendendo: **Java, JavaScript, HTML e CSS**  
-- 🏢 Atualmente atuando: **Buscando Oportunidade**
+- 🏢 Atualmente atuando: **Prefeitura Municipal de Tijucas**
 - 👨‍💼 Empresas Trabalhadas: **Portobello S.A**
 
 ---
